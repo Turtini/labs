@@ -48,3 +48,9 @@ This lab mirrors the style of tasks commonly evaluated in the RHCSA exam.
 - Home directory exists with proper ownership
 - Shell is set correctly
 - Account expiration date is set exactly
+
+## License
+
+This repository is licensed under the MIT License and is intended for
+educational use and skill development.
+
