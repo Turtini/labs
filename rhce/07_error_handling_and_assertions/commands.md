@@ -110,7 +110,7 @@ ansible-playbook -i inventory.ini lab07_block_rescue.yml
 Verify:
 
 ```bash
-ansible -i inventory.ini rhcsa_targets -m ping || true
+ansible -i inventory.ini rhcsa_targets -m ping true
 ansible -i inventory.ini rhce_targets -b -m command -a "cat /etc/rhce_lab07/marker.txt"
 ```
 
