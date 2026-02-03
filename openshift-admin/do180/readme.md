@@ -1,7 +1,8 @@
 # Red Hat OpenShift Administration I Practice Labs (DO180)
 
-Hands-on practice labs aligned to **Red Hat OpenShift Administration I (DO180)**.  
-These labs focus on foundational OpenShift skills using the `oc` CLI and OpenShift-native workflows.
+Hands-on practice labs aligned to **Red Hat OpenShift Administration I (DO180)**. These labs have been used by public sector practitioners as part of hands-on preparation for Red Hat OpenShift Administration (DO180) and related OpenShift operational work. 
+
+They focus on foundational OpenShift skills using the `oc` CLI and OpenShift-native workflows.
 
 This track is designed to build **confidence, correctness, and operational awareness** before progressing to advanced administration or exam-focused tracks such as EX280.
 
